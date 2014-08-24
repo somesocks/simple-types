@@ -1,0 +1,22 @@
+{
+  "name": "simple-types",
+  "version": "0.0.1",
+  "description": "A simple tagged-typing system for JS objects",
+  "main": "simple-types.js",
+  "scripts": {
+    "test": "node ./tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/somesocks/simple-types.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "James Larsen (somesocks@gmail.com)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/somesocks/simple-types/issues"
+  },
+  "homepage": "https://github.com/somesocks/simple-types"
+}
